@@ -5,7 +5,7 @@
 - Seamless connection to MySQL database.
 - CRUD operations for efficient data manipulation.
 
-🌟 Explore the Demo: !Demo.png
+![🌟 Explore the Demo:](Demo.png?raw=true "Agriculture Society")
 
 🌐 Highlights:
 - Clean and modular Java codebase.
