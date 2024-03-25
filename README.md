@@ -1,4 +1,4 @@
-🚀 Welcome to JavaDBMS, a user-friendly Database Management System built using Java Swing for the graphical interface, JDBC for database connectivity, and MySQL as the backend.
+🚀 Welcome to Agriculter Society, a user-friendly Database Management System built using Java Swing for the graphical interface, JDBC for database connectivity, and MySQL as the backend.
 
 ✨ Key Features:
 - Intuitive GUI for easy database management.
