@@ -6,7 +6,7 @@
 - CRUD operations for efficient data manipulation.
 
 🌟 Explore the Demo:
-!OUTPUT
+!OUTPUT.png
 
 🌐 Highlights:
 - Clean and modular Java codebase.
