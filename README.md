@@ -5,6 +5,9 @@
 - Seamless connection to MySQL database.
 - CRUD operations for efficient data manipulation.
 
+🌟 Explore the Demo:
+!OUTPUT
+
 🌐 Highlights:
 - Clean and modular Java codebase.
 - Ideal for learning and educational purposes.
